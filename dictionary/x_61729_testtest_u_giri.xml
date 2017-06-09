@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Giri" max_length="40" name="x_61729_testtest_u_giri" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test" max_length="40" name="test" type="string"/>
+    </element>
+</database>
