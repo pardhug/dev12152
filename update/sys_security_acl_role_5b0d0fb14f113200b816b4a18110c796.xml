@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-05 10:46:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5b0d0fb14f113200b816b4a18110c796</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_61729_testtest_table.x_61729_testtest.user</sys_name>

@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-05 10:46:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2b0d0fb14f113200b816b4a18110c7ad</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>TES</sys_name>
